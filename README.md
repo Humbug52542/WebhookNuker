@@ -1,4 +1,3 @@
-````markdown
 # Webhook Nuker v1.0
 
 **For authorized testing only.**
@@ -17,13 +16,11 @@ A Node.js tool to flood a Discord webhook with random messages and automatically
 1. Run the script:
    ```bash
    node nuker.js
-````
-
+   ```
 2. Follow the prompts and enter the target Discord webhook URL.
 
 ## Disclaimer
 
-This tool is intended strictly for educational and authorized testing purposes.
-You must have explicit permission to use it against any target.
-```
+This tool is intended strictly for educational and authorized testing purposes.  
+You must have explicit permission to use it against any target.  
 (Keep in mind rate limits are still a key factor.)
