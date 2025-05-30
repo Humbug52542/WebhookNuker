@@ -13,7 +13,7 @@ A Node.js tool to flood a Discord webhook with random messages and automatically
 
 ## Usage
 
-2. Follow the prompts and enter the target Discord webhook URL.
+1. Follow the prompts and enter the target Discord webhook URL.
 
 ## Disclaimer
 
